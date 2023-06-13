@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Ignacio
-#### I'm studying to be a programmer analyst
-![I'm studying to be a programmer analyst](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)
-
+I'm studying to be a programmer analyst.
 The funny thing is that I'm not a programmer yet, I hope to be soon... seriously.
 
 Skills: ANGUALAR / JS / HTML / CSS
