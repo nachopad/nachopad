@@ -15,6 +15,21 @@
 - 🛢️ Bases de Datos: MySQL, MongoDB.
 - ☕ Conocimientos básicos en Java.
 
+<div align="center">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachopad&layout=compact)
+
 ## Proyectos Destacados
 
 Aquí algunos de mis proyectos más destacados:
@@ -48,5 +63,4 @@ Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones 
 - 💼 Conéctame en [LinkedIn](www.linkedin.com/in/ignacio-padilla).
 
 Gracias por visitar mi perfil! Estoy emocionado por colaborar en proyectos y aprender.
-
 
