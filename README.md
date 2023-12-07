@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ignacio.
+# ¡Hola! 👋 Soy Nacho.
 ¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo Web Full Stack con experiencia en tecnologías modernas para la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes y explorar nuevas formas de mejorar la experiencia del usuario.
 
 ## Sobre mí
@@ -44,7 +44,7 @@
 
 Aquí algunos de mis proyectos más destacados:
 
-1. 🚀 **Birabar - Plataforma de Gestión para Restobares**
+1. 🚀 **Birabar - Plataforma de Gestión para un Restobar**
 
   Desarrollé junto a talentosos compañeros, la la aplicación web [Birabar](https://birabar-frontend.onrender.com/principal), una completa solución de gestión diseñada     
   específicamente para un Restobar. Esta plataforma ofrece una variedad de características para simplificar la administración diaria y mejorar la experiencia tanto el 
