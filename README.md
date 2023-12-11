@@ -77,6 +77,13 @@ Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones 
 - 🌟 En construcción.
 - 🛠️ En construcción.
 
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nachopad&show_icons=true&theme=tokyonight" alt="">
+</div>
+
+
 ## Contacto
 
 - 📧 Puedes contactarme por correo electrónico en nacho20002008@gmail.com.
