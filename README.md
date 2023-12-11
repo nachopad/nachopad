@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Nacho.
+# ¡Hola! 👨‍💻 Soy Nacho.
 ¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo Web Full Stack con experiencia en tecnologías modernas para la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes y explorar nuevas formas de mejorar la experiencia del usuario.
 
 ## Sobre mí
@@ -74,8 +74,8 @@ Aquí algunos de mis proyectos más destacados:
 
 Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones incluyen:
 
-- 🌟 En construcción.
-- 🛠️ En construcción.
+- 🌟 [En construcción].
+- 🛠️ [En construcción].
 
 <br>
 
@@ -83,10 +83,9 @@ Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones 
     <img src="https://github-readme-stats.vercel.app/api?username=nachopad&show_icons=true&theme=tokyonight" alt="">
 </div>
 
-
 ## Contacto
 
-- 📧 Puedes contactarme por correo electrónico en nacho20002008@gmail.com.
-- 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/ignacio-padilla/).
+- 📧 Podés contactarme por correo electrónico en nacho20002008@gmail.com.
+- 💼 Contáctame en [LinkedIn](https://www.linkedin.com/in/ignacio-padilla/).
 
 
