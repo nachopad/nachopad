@@ -70,7 +70,7 @@ Aquí algunos de mis proyectos más destacados:
     </a>
 </div>
 
-<br />
+<br>
 
 2. 🏦 **Microservicio de Gestión de Transacciones Bancarias**
 
@@ -79,6 +79,8 @@ Este proyecto es un microservicio en Java diseñado para la gestión de transacc
  - **Gestión de Transacciones Bancarias:** Permite realizar retiros y depósitos de dinero.
  - **Envío de Correos Electrónicos:** Recibir y enviar correos al realizar una operación bancaria.
  - **Impresión de Recibos en PDF y Excel**: Impresión digital del comprobante en formato PDF y Excel.  
+
+<br>
 
 <div align="center">
     <a href="https://github.com/nachopad/java-banking-transaction-service">
