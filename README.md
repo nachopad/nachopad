@@ -70,6 +70,22 @@ Aquí algunos de mis proyectos más destacados:
     </a>
 </div>
 
+<br />
+
+2. 🏦 **Microservicio de Gestión de Transacciones Bancarias**
+
+Este proyecto es un microservicio en Java diseñado para la gestión de transacciones bancarias, con funciones adicionales como el envío de correos electrónicos y la          generación de recibos/comprobantes en formato PDF y Excel.
+
+ - **Gestión de Transacciones Bancarias:** Permite realizar retiros y depósitos de dinero.
+ - **Envío de Correos Electrónicos:** Recibir y enviar correos al realizar una operación bancaria.
+ - **Impresión de Recibos en PDF y Excel**: Impresión digital del comprobante en formato PDF y Excel.  
+
+<div align="center">
+    <a href="https://github.com/nachopad/java-banking-transaction-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nachopad&repo=java-banking-transaction-service&theme=tokyonight" alt="Microservicio Bancario">
+    </a>
+</div>
+
 ## Contribuciones
 
 Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones incluyen:
