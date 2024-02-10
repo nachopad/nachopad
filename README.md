@@ -92,7 +92,7 @@ Aquí algunos de mis proyectos más destacados:
 <br>
 
 <div align="center">
-    <a href="https://github.com/nachopad/eight-parking">
+    <a href="https://github.com/nachopad/eight-parking-net-2010">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nachopad&repo=eight-parking-net-2010&theme=tokyonight" alt="Eight Parking">
     </a>
 </div>
