@@ -11,7 +11,7 @@
   - **Front End Developer**  
   - **Backend Developer**  
 - 💼 Actualmente en busca de proyectos en los cuales trabajar y contribuir.  
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y enfocado/a en mejorar mis habilidades.
+- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y enfocado en mejorar mis habilidades.
 
 ---
 
