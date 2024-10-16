@@ -1,68 +1,67 @@
-# ¡Hola! 👨‍💻 Soy Nacho.
-¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo Web Full Stack con experiencia en tecnologías modernas para la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes y explorar nuevas formas de mejorar la experiencia del usuario.
+# ¡Hola! 👨‍💻 Soy Nacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+¡Bienvenido a mi perfil! Soy un apasionado del desarrollo Web Full Stack con experiencia en tecnologías modernas para la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes y encontrar nuevas formas de mejorar la experiencia del usuario.
 
+---
+<img align="right" width=200px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 ## Sobre mí
 
-- 🎓 Cerca de graduarme como Analista Programador Universitario en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.
-- 📚 Actualmente realizando un curso Web Full Stack en DigitalHouse para ampliar y fortalecer mis habilidades.
-- 💼 Actualmente en busca de proyectos en los cuales trabajar y contribuir.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías, actualmente enfocado/a en mejorar mis habilidades con Angular, React y NodeJS. 
+- 🎓 Cerca de graduarme como Analista Programador Universitario en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.  
+- 📚 Finalicé el curso Web Full Stack en DigitalHouse y actualmente me encuentro cursando la **Certificación Tech Developer** en DigitalHouse, que incluye certificaciones de:
+  - **Professional Developer**  
+  - **Front End Developer**  
+  - **Backend Developer**  
+- 💼 Actualmente en busca de proyectos en los cuales trabajar y contribuir.  
+- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y enfocado/a en mejorar mis habilidades.
 
-## Habilidades
+---
 
-- 💻 Desarrollo Frontend: Angular, React.
-- 🛠️ Desarrollo Backend: Node.js, Express.js.
-- 🛢️ Bases de Datos: MySQL, MongoDB.
-- ☕ Conocimientos básicos en Java.
-- 🎯 Experiencia con proyectos en C# y .NET.
-- 🐳 Experiencia con Docker para la dockerizacion de aplicaciones web y clusters de bases de datos.
+## Mis Habilidades Técnicas
 
-<br>
-
+<h4>Lenguajes de Programación</h4>  
 <div align="center">
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-    </div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-<br>
-
+<h4>Otras Herramientas y Tecnologías</h4>  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopad&theme=tokyonight" alt="Top Langs">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </div>
 
-## Algunos de mis Proyectos Destacados
+---
 
-Aquí algunos de mis proyectos más destacados:
+## Proyectos Destacados
 
-1. 🚀 **Birabar - Plataforma de Gestión para un Restobar**
+### 🚀 Birabar - Plataforma de Gestión para un Restobar  
+Desarrollé junto a talentosos compañeros la aplicación web [Birabar](https://birabar-frontend.onrender.com/principal), una completa solución de gestión diseñada para un restobar.  
 
-  Desarrollé junto a talentosos compañeros, la la aplicación web [Birabar](https://birabar-frontend.onrender.com/principal), una completa solución de gestión diseñada     
-  específicamente para un Restobar. Esta plataforma ofrece una variedad de características para simplificar la administración diaria y mejorar la experiencia tanto el 
-  propietario como para los clientes.
-
-   - **Gestión de Pedidos**: Permite la creación y gestión eficiente de pedidos, mejorando la eficiencia del servicio.
-   - **Administración de Productos**: Facilita la incorporación y gestión de productos en la carta del Restobar.
-   - **Registro de Usuarios y Administración de Usuarios**: Ofrece la posibilidad de crear cuentas de usuario y administra los roles y permisos de manera efectiva.
-   - **Métricas de Ventas en Gráficas**: Proporciona visualizaciones intuitivas con métricas de ventas para una toma de decisiones informada.
-   - **Inicio de Sesión con WhatsApp**: Implementa la autenticación a través de WhatsApp para un acceso fácil y seguro.
-   - **Mensajería con WhatsApp**: Permite a los usuarios recibir mensajes relevantes y actualizaciones directamente a través de WhatsApp.
-   - **Ofertas, Combos y Productos Especiales**: Permite la creación, visualización y gestión de ofertas y combos especiales.
-   - **Calificación de Pedidos**: Los usuarios tienen la capacidad de calificar y proporcionar comentarios sobre los pedidos recibidos.
-   - **Sistema de Reseñas y Comentarios**: Fomenta la interacción y la retroalimentación entre los clientes y el Restobar.
-
-<br>
+**Características principales:**
+- Gestión de pedidos y administración de productos.
+- Registro y gestión de usuarios con roles y permisos.
+- Visualización de métricas de ventas en gráficos.
+- Autenticación e integración de mensajería con WhatsApp.
+- Gestión de ofertas, combos y calificaciones de pedidos.
 
 <div align="center">
     <a href="https://github.com/nachopad/birabar-restobar">
@@ -70,26 +69,16 @@ Aquí algunos de mis proyectos más destacados:
     </a>
 </div>
 
-<br>
+---
 
-2. 🅿️ **Eight Parking - Solución Integral de Gestión de Estacionamiento en .NET 2010**
+### 🅿️ Eight Parking - Gestión de Estacionamiento  
+Aplicación desarrollada en .NET 2010 para la gestión de estacionamientos.  
 
-  Eight Parking es una aplicación de gestión de estacionamiento desarrollada en .NET 2010. Ofrece una variedad de características para optimizar la asignación de espacios,    gestionar el acceso de manera segura, generar informes detallados y proporcionar una interfaz intuitiva para los usuarios.
-
-   - **Registro de Entrada y Salida de Vehículos**: Permite registrar tanto la entrada como la salida de vehículos en los sectores de las zonas de los estacionamientos. Los      usuarios pueden gestionar de manera eficiente el flujo de vehículos, garantizando una experiencia fluida para los usuarios.
-
-   - **Gestión de Vehículos del Sistema**: Facilita la administración de los vehículos registrados en el sistema. Los usuarios pueden agregar, editar y eliminar vehículos        según sea necesario, manteniendo actualizada la base de datos de vehículos del estacionamiento.
-
-   - **Gestión de Usuarios y Clientes**: Ofrece herramientas completas para gestionar los usuarios y clientes del sistema. Los administradores pueden crear y administrar         cuentas de usuario, asignar roles y permisos, y gestionar la información de los clientes de manera efectiva.
-
-   - **Generación de Reportes y Listas**: Permite generar informes detallados sobre diversos aspectos del funcionamiento del estacionamiento, como la ocupación de los            sectores, el flujo de vehículos, las transacciones financieras, etc. Estos informes pueden ser personalizados y exportados en varios formatos para su análisis         
-     posterior.
-
-   - **Impresión de Reportes**: Ofrece la posibilidad de imprimir los reportes generados directamente desde la aplicación. Los usuarios pueden generar y compartir informes       físicos para su revisión y archivo.
-
-   - **Interfaz Intuitiva y Amigable**: Diseñada con una interfaz intuitiva que facilita la navegación y el uso para usuarios de todos los niveles de experiencia. La             interfaz proporciona herramientas claras y accesibles para realizar todas las funciones necesarias de manera eficiente.
-
-<br>
+**Características principales:**
+- Registro de entrada y salida de vehículos.
+- Gestión de usuarios y clientes con roles.
+- Generación e impresión de informes detallados.
+- Interfaz intuitiva para una fácil navegación.
 
 <div align="center">
     <a href="https://github.com/nachopad/eight-parking-net-2010">
@@ -97,17 +86,15 @@ Aquí algunos de mis proyectos más destacados:
     </a>
 </div>
 
-<br>
+---
 
-3. 🏦 **Microservicio de Gestión de Transacciones Bancarias**
+### 🏦 Microservicio de Gestión de Transacciones Bancarias  
+Microservicio en Java para gestionar transacciones bancarias, con generación de recibos y envío de correos electrónicos.  
 
-Este proyecto es un microservicio en Java diseñado para la gestión de transacciones bancarias, con funciones adicionales como el envío de correos electrónicos y la          generación de recibos/comprobantes en formato PDF y Excel.
-
- - **Gestión de Transacciones Bancarias:** Permite realizar retiros y depósitos de dinero.
- - **Envío de Correos Electrónicos:** Recibir y enviar correos al realizar una operación bancaria.
- - **Impresión de Recibos en PDF y Excel**: Impresión digital del comprobante en formato PDF y Excel.  
-
-<br>
+**Características principales:**
+- Retiros y depósitos.
+- Envío de comprobantes por correo electrónico.
+- Generación de recibos en PDF y Excel.
 
 <div align="center">
     <a href="https://github.com/nachopad/java-banking-transaction-service">
@@ -115,22 +102,24 @@ Este proyecto es un microservicio en Java diseñado para la gestión de transacc
     </a>
 </div>
 
-## Contribuciones
+---
 
-Me encanta contribuir a la comunidad open source. Algunas de mis contribuciones incluyen:
+## Contribuciones  
+- 🌟 [En construcción].  
+- 🛠️ [En construcción].  
 
-- 🌟 [En construcción].
-- 🛠️ [En construcción].
+---
 
-<br>
+## Estadísticas de GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nachopad&show_icons=true&theme=tokyonight" alt="">
+    <img src="https://github-readme-stats.vercel.app/api?username=nachopad&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopad&theme=tokyonight" alt="Top Languages">
 </div>
 
-## Contacto
+---
 
-- 📧 Podés contactarme por correo electrónico en nacho20002008@gmail.com.
-- 💼 Contáctame en [LinkedIn](https://www.linkedin.com/in/ignacio-padilla/).
-
-
+## Contacto  
+- 📧 **Correo:** ignacio.padilla.contacto@gmail.com  
+- 💼 **LinkedIn:** [Ignacio A. Padilla](https://www.linkedin.com/in/ignacio-padilla/)
