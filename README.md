@@ -3,7 +3,7 @@
 Welcome to my profile! I am a passionate Full Stack Web Developer with experience in modern technologies for web applications. I enjoy working on challenging projects and finding new ways to enhance user experience.
 
 ---
-<img align="right" width=250px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
+<img align="right" width=200px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZmcjl4dGVxdXkwM3AzYWhudWpicWZkOTVycmZhYnZqNTZ6MzI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cCOVfFwDI3awdse5A3/giphy.gif" width="45px" align="center">&nbsp;***About Me***
 
