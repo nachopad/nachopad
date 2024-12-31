@@ -1,25 +1,23 @@
-<h1 align="center"><b>Hello! 👨‍💻 I'm Nacho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-Welcome to my profile! I am a passionate Full Stack Web Developer with experience in modern technologies for web applications. I enjoy working on challenging projects and finding new ways to enhance user experience.
+# ¡Hola! 👨‍💻 Soy Nacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+¡Bienvenido a mi perfil! Soy un apasionado del desarrollo Web Full Stack con experiencia en tecnologías modernas para la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes y encontrar nuevas formas de mejorar la experiencia del usuario.
 
 ---
 <img align="right" width=200px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
+## Sobre mí
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZmcjl4dGVxdXkwM3AzYWhudWpicWZkOTVycmZhYnZqNTZ6MzI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cCOVfFwDI3awdse5A3/giphy.gif" width="45px" align="center">&nbsp;***About Me***
-
-- 🎓 About to graduate as a **Programming Analyst** from the Faculty of Engineering at the National University of Jujuy, Argentina.  
-- 📚 I completed the **Full Stack Web** course at DigitalHouse and I am currently pursuing the **Tech Developer Certification**, which includes certifications in:  
-  - Professional Developer  
-  - Front End Developer 
-  - Backend Developer  
-- 💼 Currently looking for projects where I can work and contribute.  
-- 🌱 Always learning and exploring new technologies, focused on improving my skills.
+- 🎓 Cerca de graduarme como Analista Programador Universitario en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.  
+- 📚 Finalicé el curso Web Full Stack en DigitalHouse y actualmente me encuentro cursando la **Certificación Tech Developer** en DigitalHouse, que incluye certificaciones de:
+  - **Professional Developer**  
+  - **Front End Developer**  
+  - **Backend Developer**  
+- 💼 Actualmente en busca de proyectos en los cuales trabajar y contribuir.  
+- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y enfocado en mejorar mis habilidades.
 
 ---
 
-## My Technical Skills
+## Mis Habilidades Técnicas
 
-<h4>Programming Languages</h4>  
+<h4>Lenguajes de Programación</h4>  
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -30,7 +28,7 @@ Welcome to my profile! I am a passionate Full Stack Web Developer with experienc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-<h4>Other Tools and Technologies</h4>  
+<h4>Otras Herramientas y Tecnologías</h4>  
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -53,17 +51,17 @@ Welcome to my profile! I am a passionate Full Stack Web Developer with experienc
 
 ---
 
-## Featured Projects
+## Proyectos Destacados
 
-### 🚀 Birabar - Management Platform for a Restobar  
-I developed [Birabar](https://birabar-frontend.onrender.com/principal), a complete web management solution for a restobar, along with talented teammates.  
+### 🚀 Birabar - Plataforma de Gestión para un Restobar  
+Desarrollé junto a talentosos compañeros la aplicación web [Birabar](https://birabar-frontend.onrender.com/principal), una completa solución de gestión diseñada para un restobar.  
 
-**Key Features:**
-- Order management and product administration.  
-- User management with roles and permissions.  
-- Visualization of sales metrics through graphs.  
-- Authentication and WhatsApp messaging integration.  
-- Management of offers, combos, and order ratings.
+**Características principales:**
+- Gestión de pedidos y administración de productos.
+- Registro y gestión de usuarios con roles y permisos.
+- Visualización de métricas de ventas en gráficos.
+- Autenticación e integración de mensajería con WhatsApp.
+- Gestión de ofertas, combos y calificaciones de pedidos.
 
 <div align="center">
     <a href="https://github.com/nachopad/birabar-restobar">
@@ -73,14 +71,14 @@ I developed [Birabar](https://birabar-frontend.onrender.com/principal), a comple
 
 ---
 
-### 🅿️ Eight Parking - Parking Management  
-An application developed in .NET 2010 for parking management.  
+### 🅿️ Eight Parking - Gestión de Estacionamiento  
+Aplicación desarrollada en .NET 2010 para la gestión de estacionamientos.  
 
-**Key Features:**
-- Vehicle check-in and check-out registration.  
-- User and client management with roles.  
-- Generation and printing of detailed reports.  
-- Intuitive interface for easy navigation.
+**Características principales:**
+- Registro de entrada y salida de vehículos.
+- Gestión de usuarios y clientes con roles.
+- Generación e impresión de informes detallados.
+- Interfaz intuitiva para una fácil navegación.
 
 <div align="center">
     <a href="https://github.com/nachopad/eight-parking-net-2010">
@@ -90,29 +88,29 @@ An application developed in .NET 2010 for parking management.
 
 ---
 
-### 🏦 Banking Transaction Management Microservice  
-A Java-based microservice for managing banking transactions, with receipt generation and email sending.
+### 🏦 Microservicio de Gestión de Transacciones Bancarias  
+Microservicio en Java para gestionar transacciones bancarias, con generación de recibos y envío de correos electrónicos.  
 
-**Key Features:**
-- Withdrawals and deposits.  
-- Sending receipts via email.  
-- Generation of receipts in PDF and Excel formats.
+**Características principales:**
+- Retiros y depósitos.
+- Envío de comprobantes por correo electrónico.
+- Generación de recibos en PDF y Excel.
 
 <div align="center">
     <a href="https://github.com/nachopad/java-banking-transaction-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nachopad&repo=java-banking-transaction-service&theme=tokyonight" alt="Banking Microservice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nachopad&repo=java-banking-transaction-service&theme=tokyonight" alt="Microservicio Bancario">
     </a>
 </div>
 
 ---
 
-## Contributions  
-- 🌟 [Under construction].  
-- 🛠️ [Under construction].  
+## Contribuciones  
+- 🌟 [En construcción].  
+- 🛠️ [En construcción].  
 
 ---
 
-## GitHub Stats
+## Estadísticas de GitHub
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nachopad&show_icons=true&theme=tokyonight" alt="GitHub Stats">
@@ -122,6 +120,6 @@ A Java-based microservice for managing banking transactions, with receipt genera
 
 ---
 
-## Contact  
-- 📧 **Email:** ignacio.padilla.contacto@gmail.com  
-- 💼 **LinkedIn:** [Ignacio Agustín Padilla](https://www.linkedin.com/in/ignacio-padilla/)
+## Contacto  
+- 📧 **Correo:** ignacio.padilla.contacto@gmail.com  
+- 💼 **LinkedIn:** [Ignacio A. Padilla](https://www.linkedin.com/in/ignacio-padilla/)
