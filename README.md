@@ -53,6 +53,23 @@
 
 ## Proyectos Destacados
 
+### 🌟 Lumina - Tienda E-commerce de Ropa Deportiva  
+Creamos Lumina, una tienda e-commerce especializada en indumentaria deportiva, diseñada para ofrecer productos de alta calidad y adaptados a un estilo de vida activo.  
+
+**Características principales:**
+- Amplia gama de productos, incluyendo ropa, calzado y accesorios deportivos.  
+- Interfaz de usuario intuitiva y optimizada para una experiencia de compra fluida.  
+- Gestión de productos, usuarios y ventas.   
+- Incluye Dashboard para el proyecto desarrollado con React.  
+
+<div align="center">
+    <a href="https://github.com/nachopad/lumina">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nachopad&repo=grupo_12_lumina&theme=tokyonight" alt="Lumina">
+    </a>
+</div>
+
+---
+
 ### 🚀 Birabar - Plataforma de Gestión para un Restobar  
 Desarrollé junto a talentosos compañeros la aplicación web [Birabar](https://birabar-frontend.onrender.com/principal), una completa solución de gestión diseñada para un restobar.  
 
