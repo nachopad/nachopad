@@ -5,7 +5,7 @@
 <img align="right" width=200px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 ## Sobre mí
 
-- 🎓 Cerca de graduarme como Analista Programador Universitario en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.  
+- 🎓 **Analista Programador Universitario** graduado en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.  
 - 📚 Finalicé el curso Web Full Stack en DigitalHouse y actualmente me encuentro cursando la **Certificación Tech Developer** en DigitalHouse, que incluye certificaciones de:
   - **Professional Developer**  
   - **Front End Developer**  
@@ -139,4 +139,4 @@ Microservicio en Java para gestionar transacciones bancarias, con generación de
 
 ## Contacto  
 - 📧 **Correo:** ignacio.padilla.contacto@gmail.com  
-- 💼 **LinkedIn:** [Ignacio A. Padilla](https://www.linkedin.com/in/ignacio-padilla/)
+- 💼 **LinkedIn:** [Ignacio Agustín Padilla](https://www.linkedin.com/in/ignacio-padilla/)
