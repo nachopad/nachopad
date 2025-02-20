@@ -3,6 +3,7 @@
 
 ---
 <img align="right" width=200px alt="Coding Sticker" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
+
 ## Sobre mí
 
 - 🎓 **Analista Programador Universitario** graduado en la Facultad de Ingeniería de la Universidad Nacional de Jujuy, Argentina.  
